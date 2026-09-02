@@ -1,9 +1,9 @@
 package main;
 
-import ds.EmergencyQueue;
-import ds.Patient;
-import ds.PatientBST;
-import ds.TreatmentStack;
+import DataStructure.EmergencyQueue;
+import DataStructure.Patient;
+import DataStructure.PatientBST;
+import DataStructure.TreatmentStack;
 import java.util.Scanner;
 
 public class MainApp {
